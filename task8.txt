@@ -1,0 +1,20 @@
+	Reflection:
+-------------------------------------------------------
+"What did you learn? What did you know already?"
+-Things that were new: Arrays in c++, vectors, switch case, creating libaries, random numbers, and how to solve these tasks.
+-Things that I already knew: What was covered in lab1 and the previous corse, introduction to programming. 
+
+-------------------------------------------------------
+ "What was difficult in the lab? How did you overcome it?"
+-I'd say that most of the tasks required lots of thinking to implement. What was most difficult was understanding the errors that came up along the way. 
+-Things such as vector changes not persisting, off by one, sizeof and strlen, and cases needing "{}" to work are examples of problems.
+-I overcame these by using the lecture pdfs from this course, googling the problems and discussing/troubleshooting with my classmates.
+
+-------------------------------------------------------
+"How can the lab be improved?"
+-The instructions on task 7 could have been more precise. A video or gif detailing the process would have helped understanding the task much simpler.
+-The images added to the assignment aren't visible, they just appear as the names of images, not the actual images. 
+
+-------------------------------------------------------
+"Additionally, write an estimate how many hours you spent on this lab."
+-Probably between 15 hours and 20 hours total. 
